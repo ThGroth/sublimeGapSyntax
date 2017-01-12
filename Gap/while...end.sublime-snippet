@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[while ${1:#condition} do
+	${0:#statements}
+od;]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.gap</scope>
+    <description>while … end</description>
+</snippet>
